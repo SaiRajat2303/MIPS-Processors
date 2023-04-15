@@ -37,6 +37,12 @@ The program the has been loaded into the instrucion memory is as follows.
 In the instrucion memory module, comments have been mentioned beside the instrucion 
 codes to indicate which instruction code corresponds to which instruction
 
-![](![](https://github.com/SaiRajat2303/MIPS-Processors/blob/main/images/Processor%20Datapath.png))
+![](https://github.com/SaiRajat2303/MIPS-Processors/blob/main/images/program_code.png)
+
+
+The control signal values for different instructions have been summarised in the following table : 
+
+![](https://github.com/SaiRajat2303/MIPS-Processors/blob/main/images/Control_Signals.png)
+
 
 To get a detailed understanding about the datapath , a reading of Patterson and Henessy is recommended. Hope this helps !
